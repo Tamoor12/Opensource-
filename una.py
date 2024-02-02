@@ -1,8 +1,8 @@
 import java.util.Random;
 
 #public class UserAgentGenerator {
-#    public static void main(String[] args) {
-        Random random = new Random();
+  #  public static void main(String[] args) {
+         Random random = new Random()
 
         for (int i = 0; i < 66; i++) {
             int androidVersionMajor = random.nextInt(7) + 4;
@@ -22,10 +22,11 @@ import java.util.Random;
             int width = random.nextInt(761) + 320;
             int height = random.nextInt(1441) + 480;
 
-            String userAgent = String.format("Davik/2.1.0 (Linux; U; Android %s.0.0; %s Build/8BFOHT) [FBAN/FB4A;FBAV/%d.0.0.31.63;FBPN/com.facebook.katana;FBLC/en_US;FBBV/%d;FBCR/null;FBMF/%s;FBBD/%s;FBDV/%s;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{{density=2.25,width=%d,height=%d}}];",
+            String userAgent = String.format("Davik/2.1.0 (Linux; U; Android %s.0.0; %s Build/8BFOHT) [FBAN/FB4A;FBAV/%d.0.0.31.63;FBPN/com.facebook.katana;FBLC/en_US;FBBV/%d;FBCR/null;FBMF/%s;FBBD/%s;FBDV/%s;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{{density=3.5,width=%d,height=%d}}];",
                     androidVersion, model, fbav, fbbv, brandName, brandName, model, width, height);
 
             System.out.println(userAgent);
         }
     }
 }
+
