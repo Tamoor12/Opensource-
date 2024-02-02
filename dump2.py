@@ -145,7 +145,7 @@ class dump:
 			time.sleep(3);auth().login()
 
 	# --> Dump Friends
-	def friends(self):
+def friends(self):
 		try:
 			target_id = input('Input Id Target : ')
 			type_dump = input('Infinity Dump !, y/t ? : ')
@@ -183,7 +183,7 @@ class dump:
 			print('Failled Dump ID');exit()
 
 	# --> Dump Followers
-	def followers(self):
+def followers(self):
 		try:
 			target_id = input('Input Id Target : ')
 			get = requests.get('https://graph.facebook.com/%s/subscribers?limit=10000&access_token=%s'%(target_id, self.token_eaag), cookies=self.cookie).json()
@@ -203,7 +203,7 @@ class dump:
 			print('Failled Dump ID')
 
 	# --> Dump Member Group
-	def groups(self):
+def groups(self):
 		try:
 			target_id = input('Input Id Target : ')
 			with requests.Session() as session:
@@ -224,7 +224,7 @@ class dump:
 			print('Failled Get Groups Info')
 
     # --> Get List Member
-	def get_members(self, **kwargs):
+def get_members(self, **kwargs):
 		try:
 			with requests.Session() as session:
 				post = session.post('https://www.facebook.com/api/graphql/',

